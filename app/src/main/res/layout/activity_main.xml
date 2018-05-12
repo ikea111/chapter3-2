@@ -5,9 +5,9 @@
     android:layout_height="fill_parent"
     >
 
-    <com.example.zx.myapplication2.MyButton
+    <Button
         android:id="@+id/myButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="点击我" />
+        android:text="@string/text" />
 </LinearLayout>

@@ -6,8 +6,8 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.KeyEvent;
 
-public class Buttn extends AppCompatButton {
-    public Buttn(Context context , AttributeSet set){
+public class MyButton extends AppCompatButton {
+    public MyButton(Context context , AttributeSet set){
         super(context , set);
     }
     @Override
